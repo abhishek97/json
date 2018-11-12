@@ -25,5 +25,27 @@
       "title": "Build Something Awesome",
       "completed": false
     }
+  ],
+  "bands": [
+    {
+      "id": 1,
+      "name": "Black Sabbath",
+      "songs": ["Iron Man", "Paranoid"]
+    },
+    {
+      "id": 2,
+      "name": "Nirvana",
+      "songs": ["Smells Like Teen Spirit", "Lithium"]
+    },
+    {
+      "id": 3,
+      "name": "Metallica",
+      "songs": ["Enter Sandman", "Master of Puppets"]
+    },
+    {
+      "id": 4,
+      "name": "Steven Wilson",
+      "songs": ["Drive Home", "Routine", "The Raven that refused to sing"]
+    }
   ]
 }
